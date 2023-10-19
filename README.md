@@ -16,6 +16,7 @@
 - 📫 How to reach me **luizrosalba@gmail.com**
 
 - ⚡ Fun fact **I really like progressive Rock !**
+- - ⚡ Fun fact 2**I can solve a rubik's cube in less then 2 minutes (WIP :D )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
