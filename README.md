@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizrosalba" alt="luizrosalba" /></a> </p>
 
-- 🔭 I’m currently working on **Wipro**
+- 🔭 Currently working on **Wipro**
 
 - 👨‍💻 All of my projects are available at [https://dev-links-seven.vercel.app/docs/intro](https://dev-links-seven.vercel.app/docs/intro)
 
